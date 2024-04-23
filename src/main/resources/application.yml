@@ -1,0 +1,6 @@
+spring:
+  application:
+  name: TalkWave
+
+server:
+  port: 8080
